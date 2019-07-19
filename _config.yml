@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jeff Rose"
-  avatar : "/assets/images/bio.jpg"
+  avatar : "/assets/images/bio-pic.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
